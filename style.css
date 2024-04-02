@@ -83,7 +83,7 @@ h1{
 
 .input-container{
     width: 100%;
-    background-color: #4158D0;
+    background-color: #9aa0c0;
     border-radius: 1rem;
     padding: 2rem;
     border-bottom: 0.35rem solid rgb(137, 108, 137);
@@ -234,11 +234,11 @@ h1{
 }
 
 .slider:focus{
-    outline: 3px solid #FFCC70;
+    /* outline: 3px solid #FFCC70; */
 }
 .slider::-webkit-slider-thumb:hover{
     outline: 2px solid #FFCC70;
-    background-color: #4158D0;
+    background-color: #979dbe;
     box-shadow: 0px 0px 25px 5px rgba(255, 229, 61, 0.80);
 
 }
